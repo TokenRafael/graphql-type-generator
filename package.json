@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "graphql-folder-generator.createType",
-				"title": "GFG: Generate Type Folder"
+				"title": "GTG: Generate Type Folder"
 			}
 		],
 		"menus": {
